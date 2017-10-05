@@ -1,0 +1,7 @@
+{
+  "extends": "@dialexa/eslint-config-dialexa/react",
+  "rules": {
+    "react/prop-types": 0,
+    "no-console": 0
+  }
+}

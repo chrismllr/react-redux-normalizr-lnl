@@ -1,0 +1,21 @@
+{
+  "subscriptions": [
+    {
+      "id": "123-123",
+      "subscriber": "Chris",
+      "vehicle": "VW Kharmann Ghia"
+    },
+    {
+      "id": "456-456",
+      "subscriber": "Lebron",
+      "vehicle": "Kia Sportage"
+    }
+  ],
+  "todaysSubscriptions": [
+    {
+      "id": "123-123",
+      "subscriber": "Chris",
+      "vehicle": "VW Kharmann Ghia"
+    }
+  ]
+}
